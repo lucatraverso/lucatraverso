@@ -1,8 +1,8 @@
 # **Hi there! 👋 I'm Luca Traverso**  
 
-## **🎸 Sound Engineer | 🤖 Data Scientist | 🌍 AI Enthusiast**  
+## **🎸🤖 Machine Learning Engineer | 🎸 Acoustical Engineer| 🌍 MEng in CS & AIt**  
 
-Welcome to my GitHub! I'm a **Sound Engineer** turned **Machine Learning Engineer**, passionate about applying Artificial Intelligence to acoustics, digital signal processing, and beyond. My journey has allowed me to merge creative sound expertise with data-driven solutions, building systems that listen, learn, and solve real-world problems.  
+Welcome to my GitHub! I'm a **ML Engineer**, passionate about building ML systems end-to-end: from messy real-world data to models running in production. My journey has allowed me to merge creative sound expertise with data-driven solutions, building systems that listen, learn, and solve real-world problems.  
 
 ---
 
