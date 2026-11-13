@@ -1,52 +1,43 @@
-# **Hi there! 👋 I'm Luca Traverso**  
+# **Hi there! 👋 I'm Luca Traverso**
 
-## **🎸🤖 Machine Learning Engineer | 🎸 Acoustical Engineer| 🌍 MEng in CS & AIt**  
+## **🤖 Machine Learning Engineer | 🎓 MSc in Computer Science & AI @ Sapienza | 📍 Rome, Italy**
 
-Welcome to my GitHub! I'm a **ML Engineer**, passionate about building ML systems end-to-end: from messy real-world data to models running in production. My journey has allowed me to merge creative sound expertise with data-driven solutions, building systems that listen, learn, and solve real-world problems.  
+I build ML systems end-to-end: from messy real-world data to models running in production. I've worked across NLP, deep learning on sensor and audio data, and data engineering. My background as a sound engineer gives me an edge with signals and time-series data.
 
 ---
 
-## **🔧 What I Do**  
+## **🔧 Selected Work**
 
-- 🎧 **Acoustic Surveillance System:** Developed a sound event detection model leveraging neural networks to monitor environmental sounds.
-- 🌪 **Fault Detection for Wind Turbines:** Developed a TensorFlow-based system, optimizing machine monitoring.  
-- 💥 **Explosion Detection:** Created a Python-based detector analyzing low-frequency spectral content for real-time detection.  
-- 🎵 **Sound Event Detection:** Leveraged pre-trained models to classify noise exceedances, enhancing noise mitigation efforts.  
-- 🛠 **Audio Dataset Creation:** Curated and labeled extensive datasets, ensuring top-quality training inputs for AI models.  
-- 🗂 **Data Pipelines & ETL Validation:** Built scalable pipelines and executed SQL queries to ensure data integrity.  
-- 👨‍🏫 **Education:** Participed in Data Science courses breaking down complex topics and helping students getting into DS&AI.
+- 🏥 **Clinical NER in Spanish** ([spanish-clinical-ner](https://github.com/lucatraverso/spanish-clinical-ner)): Compared spaCy, BiLSTM + fastText and Transformer models for named entity recognition on clinical texts (PharmaCoNER).
+- 🌪 **Wind-Turbine Fault Detection:** Built a CNN-based system (TensorFlow) with 98% accuracy, deployed to production, where it surfaced faults manufacturers had missed. *(Industry project, code private.)*
+- 🌲 **Real-Time Sound Event Detection on Edge Hardware** ([Thesis-Chainsaw_Detection](https://github.com/lucatraverso/Thesis-Chainsaw_Detection)): Transfer learning with YAMNet, data-augmentation ablation and TFLite deployment on a single-board computer, validated with a field test to detect illegal logging.
+- 💥 **Real-Time Event Detection:** Developed a Python detector based on low-frequency spectral analysis of sensor data.
+- 🛠 **Dataset Creation:** Built and labeled proprietary datasets from scratch, plus preprocessing and noise-filtering pipelines that improved model performance.
+- 🗂 **Data Pipelines & AI Tools:** Built ETL pipelines in Python, SQL and BigQuery, and AI tools that let non-technical teams build their own reports.
+- 👨‍🏫 **Teaching:** Tutored a Data Science course, helping students get started in data science and AI.
 
-## **⚡ Skills**  
+## **⚡ Skills**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## **💬 Let’s Connect**  
+## **💬 Let's Connect**
 
-I'm always excited to collaborate on innovative projects, discuss ideas, or share experiences in:  
-- Data Science and Machine Learning  
-- Acoustics and Digital Signal Processing  
-- AI-powered solutions for real-world challenges  
+I'm open to remote ML / AI engineering roles and always happy to talk about:
+- Machine learning and deep learning in production
+- NLP and signal / audio data
+- AI-powered solutions for real-world problems
 
-📧 **Email:** lucatraverso@live.com.ar  
-🔗 **LinkedIn:** [Luca Traverso](https://linkedin.com/in/lucatraverso)  
-
-<!--
-**lucatraverso/lucatraverso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **Email:** lucatraverso@live.com.ar
+🔗 **LinkedIn:** [Luca Traverso](https://www.linkedin.com/in/luca-traverso/)
